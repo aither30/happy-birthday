@@ -90,7 +90,7 @@ export default function Birthday() {
               aku Mwhehehe
             </p>
             <p className="text-gray-100 md:text-xl">
-              Semoga semua harapanmu tercapai dan sukses dalam segala hal yang
+              Semoga semua harapanmu tercapai dan sukses dalam segala hal yang 
               {name} lakukan. 🌟
             </p>
           </div>
