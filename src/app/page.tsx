@@ -134,7 +134,7 @@ export default function Birthday() {
             value={message}
             onChange={(e) => setMessage(e.target.value)}
             placeholder="Tulis pesanmu di sini..."
-            className="w-full px-4 py-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-purple-400"
+            className="w-full px-4 py-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-purple-400 text-gray-800 bg-white"
           />
           <button
             onClick={() => {
