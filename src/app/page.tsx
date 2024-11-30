@@ -83,7 +83,7 @@ export default function Birthday() {
               Semoga semua kegiatannya lancar yaaaa
             </p>
             <p className="text-gray-100 md:text-xl">
-              Semoga yang kamu harapkan tercapai
+              Semoga yang kamu harapkan tercapaiii, semuanyanyanyahh
             </p>
             <p className="text-gray-100 md:text-xl">
               Ingatlah bahwa kamu sangat berarti bagi banyak orang!, Khususnya
@@ -91,7 +91,7 @@ export default function Birthday() {
             </p>
             <p className="text-gray-100 md:text-xl">
               Semoga semua harapanmu tercapai dan sukses dalam segala hal yang
-              kamu lakukan. 🌟
+              {name} lakukan. 🌟
             </p>
           </div>
           {/* Galeri Foto */}
